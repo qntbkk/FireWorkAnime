@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<widget id="LoginSnake.widget.LoginSnake" needsEntityContext="false" 
+<widget id="FireWorkAnime.widget.FireWorkAnime" needsEntityContext="false" 
     xmlns="http://www.mendix.com/widget/1.0/">
-    <name>LoginSnake</name>
-    <description>Login Snake</description>
+    <name>FireWorkAnime</name>
+    <description>FireWorkAnime</description>
     <icon />
     <properties>
         <property key="messageString" type="string" required="true" defaultValue="">
